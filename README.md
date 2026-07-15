@@ -1,2 +1,2 @@
-# spring-boot-
+# spring-boot
 Learning spring boot 
